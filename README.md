@@ -1,10 +1,10 @@
 # Electron
 Electron Basics
 # Clone the Quick Start repository
-git clone https://github.com/atom/electron-quick-start
+git clone https://github.com/TheSpaceArmy/Electron/
 
 # Go into the repository
-$ cd electron-quick-start
+$ cd Electron
 
 # Install the dependencies and run
 npm install && npm start
